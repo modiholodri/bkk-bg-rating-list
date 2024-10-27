@@ -1,5 +1,9 @@
 | |Name|Rating|+/-|Exp|
 |-|:--:|:----:|:-:|:-:|
+|1|Walter (Mief) Meuwis|1,804|4.5|5|
+|2|John|1,804|4.5|5|
+|3|Vinod (Vinnie) Ratnaphat|1,796|-4.5|5|
+|4|Reinhold (Modi) Lauer|1,796|-4.5|5|
 
  
 
