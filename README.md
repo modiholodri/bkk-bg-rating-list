@@ -4,11 +4,11 @@
 |2|John|1,804|+4.5|5|
 |3|Brian|1,804|+4.5|5|
 |4|Van|1,804|+4.4|5|
-|5|Graham|1,800|-4.5|10|
-|6|Chris|1,796|+4.5|15|
-|7|Vinod (Vinnie) Ratnaphat|1,796|-4.5|5|
-|8|Reinhold (Modi) Lauer|1,796|-4.5|5|
-|9|Giggs|1,796|-4.5|5|
+|5|Vinod (Vinnie) Ratnaphat|1,800|+4.5|10|
+|6|Graham|1,800|-4.5|10|
+|7|Chris|1,796|+4.5|15|
+|8|Giggs|1,796|-4.5|5|
+|9|Reinhold (Modi) Lauer|1,791|-4.5|10|
 
  
 
