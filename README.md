@@ -3,10 +3,12 @@
 |1|Walter (Mief) Meuwis|1,804|+4.5|5|
 |2|John|1,804|+4.5|5|
 |3|Graham|1,804|+4.5|5|
-|4|Van|1,804|+4.4|5|
-|5|Vinod (Vinnie) Ratnaphat|1,796|-4.5|5|
-|6|Reinhold (Modi) Lauer|1,796|-4.5|5|
-|7|Chris|1,791|-4.4|10|
+|4|Brian|1,804|+4.5|5|
+|5|Van|1,804|+4.4|5|
+|6|Vinod (Vinnie) Ratnaphat|1,796|-4.5|5|
+|7|Reinhold (Modi) Lauer|1,796|-4.5|5|
+|8|Giggs|1,796|-4.5|5|
+|9|Chris|1,791|-4.4|10|
 
  
 
