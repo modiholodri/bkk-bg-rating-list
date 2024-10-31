@@ -1,14 +1,14 @@
 | |Name|Rating|+/-|Exp|
 |-|:--:|:----:|:-:|:-:|
-|1|Walter (Mief) Meuwis|1,804|+4.5|5|
-|2|John|1,804|+4.5|5|
-|3|Brian|1,804|+4.5|5|
-|4|Van|1,804|+4.4|5|
-|5|Chris|1,800|+4.5|20|
-|6|Vinod (Vinnie) Ratnaphat|1,800|+4.5|10|
-|7|Giggs|1,796|-4.5|5|
-|8|Graham|1,795|-4.5|15|
-|9|Reinhold (Modi) Lauer|1,791|-4.5|10|
+|1|Walter (Mief) Meuwis|1,802|+2|1|
+|2|John|1,800|+0|0|
+|3|Brian|1,800|+0|0|
+|4|Van|1,800|+0|0|
+|5|Chris|1,800|+0|0|
+|6|Vinod (Vinnie) Ratnaphat|1,800|+0|0|
+|7|Giggs|1,800|+0|0|
+|8|Graham|1,800|+0|0|
+|9|Reinhold (Modi) Lauer|1,798|-2|1|
 
  
 
