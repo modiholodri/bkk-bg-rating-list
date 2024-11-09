@@ -1,7 +1,7 @@
 | |Name|Rating|+/-|Exp|
 |-|:--:|:----:|:-:|:-:|
-|1|Walter (Mief) Meuwis|1,809|+4.4|10|
-|2|Vinod (Vinnie) Ratnaphat|1,809|+4.4|20|
+|1|Walter (Mief) Meuwis|1,813|+4.5|15|
+|2|Vinod (Vinnie) Ratnaphat|1,804|-4.5|25|
 |3|John|1,800|+0|0|
 |4|Chris|1,800|+0|0|
 |5|Giggs|1,800|+0|0|
