@@ -18,6 +18,7 @@ on:
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
+          - Somchai
       loser_name:
         description: 'Loser'
         required: true
@@ -33,6 +34,7 @@ on:
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
+          - Somchai
       match_length:
         description: 'Length'
         default: '5'
