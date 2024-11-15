@@ -20,6 +20,7 @@ on:
           - 'Walter (Mief) Meuwis'
           - 'Somchai'
           - 'Michael Chesney'
+          - 'Leonard'
       loser_name:
         description: 'Loser'
         required: true
@@ -37,6 +38,7 @@ on:
           - 'Walter (Mief) Meuwis'
           - 'Somchai'
           - 'Michael Chesney'
+          - 'Leonard'
       match_length:
         description: 'Length'
         default: '5'
