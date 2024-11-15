@@ -19,6 +19,7 @@ on:
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
           - 'Somchai'
+          - 'Michael Chesney'
       loser_name:
         description: 'Loser'
         required: true
@@ -35,6 +36,7 @@ on:
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
           - 'Somchai'
+          - 'Michael Chesney'
       match_length:
         description: 'Length'
         default: '5'
