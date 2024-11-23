@@ -1,6 +1,6 @@
 | |Name|Rating|+/-|Exp|
 |-|:--:|:----:|:-:|:-:|
-|1|Walter (Mief) Meuwis|1,832|-4.8|100|
+|1|Walter (Mief) Meuwis|1,836|+4.2|105|
 |2|Vinod (Vinnie) Ratnaphat|1,830|+4.3|95|
 |3|Chris|1,804|+4.4|5|
 |4|Graham|1,804|+4.4|5|
@@ -8,7 +8,7 @@
 |6|Giggs|1,800|+0|0|
 |7|Brian|1,784|-4.3|76|
 |8|Somchai|1,783|-4.3|60|
-|9|Reinhold (Modi) Lauer|1,783|+4.8|66|
+|9|Reinhold (Modi) Lauer|1,779|-4.2|71|
 |10|Van|1,778|-4.2|35|
 
  
