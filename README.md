@@ -9,7 +9,7 @@
 |7|Giggs|1,800|+0|0|
 |8|Brian|1,784|-4.3|76|
 |9|Van|1,778|-4.2|35|
-|10|Reinhold (Modi) Lauer|1,774|-4.1|66|
+|10|Reinhold (Modi) Lauer|1,770|-4.5|71|
 
  
 
