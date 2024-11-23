@@ -9,36 +9,28 @@ on:
         type: choice
         options:
           - 'Brian'
-          - 'Bruno Kursteiner'
           - 'Chris'
-          - 'Giggs'
           - 'Graham'
           - 'James Michael Haley'
           - 'Reinhold (Modi) Lauer'
+          - 'Somchai'
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
-          - 'Somchai'
-          - 'Michael Chesney'
-          - 'Leonard'
       loser_name:
         description: 'Loser'
         required: true
         type: choice
         options:
           - 'Brian'
-          - 'Bruno Kursteiner'
           - 'Chris'
-          - 'Giggs'
           - 'Graham'
           - 'James Michael Haley'
           - 'Reinhold (Modi) Lauer'
+          - 'Somchai'
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
-          - 'Somchai'
-          - 'Michael Chesney'
-          - 'Leonard'
       match_length:
         description: 'Length'
         default: '5'
