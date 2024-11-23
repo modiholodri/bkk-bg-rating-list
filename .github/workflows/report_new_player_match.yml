@@ -10,12 +10,11 @@ on:
         type: choice
         options:
           - 'Brian'
-          - 'Bruno Kursteiner'
           - 'Chris'
-          - 'Giggs'
           - 'Graham'
           - 'James Michael Haley'
           - 'Reinhold (Modi) Lauer'
+          - 'Somchai'
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
@@ -29,12 +28,11 @@ on:
         type: choice
         options:
           - 'Brian'
-          - 'Bruno Kursteiner'
           - 'Chris'
-          - 'Giggs'
           - 'Graham'
           - 'James Michael Haley'
           - 'Reinhold (Modi) Lauer'
+          - 'Somchai'
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
