@@ -3,12 +3,12 @@
 |1|Walter (Mief) Meuwis|1,848|+4.2|140|
 |2|Vinod (Vinnie) Ratnaphat|1,839|+4.1|115|
 |3|Chris|1,804|+4.4|5|
-|4|Graham|1,796|-4.6|15|
-|5|Somchai|1,793|+4.8|70|
+|4|Somchai|1,797|+4.4|75|
+|5|Graham|1,796|-4.6|15|
 |6|John|1,791|-4.2|10|
 |7|Brian|1,785|+4.6|96|
-|8|Van|1,774|-4.1|40|
-|9|Reinhold (Modi) Lauer|1,771|-4.2|91|
+|8|Reinhold (Modi) Lauer|1,771|-4.2|91|
+|9|Van|1,770|-4.4|45|
 
  
 
