@@ -1,9 +1,9 @@
 | |Name|Rating|+/-|Exp|
 |-|:--:|:----:|:-:|:-:|
-|1|Walter (Mief) Meuwis|1,844|-4.6|125|
+|1|Walter (Mief) Meuwis|1,848|+4.2|130|
 |2|Vinod (Vinnie) Ratnaphat|1,830|+4.6|105|
 |3|Chris|1,804|+4.4|5|
-|4|Graham|1,804|+4.4|5|
+|4|Graham|1,800|-4.2|10|
 |5|John|1,800|+0|0|
 |6|Somchai|1,788|+4.7|65|
 |7|Brian|1,780|-4.1|91|
