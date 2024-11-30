@@ -4,11 +4,11 @@
 |2|Vinod (Vinnie) Ratnaphat|1,830|+4.6|105|
 |3|Chris|1,804|+4.4|5|
 |4|Graham|1,800|-4.2|10|
-|5|John|1,800|+0|0|
+|5|John|1,795|-4.6|5|
 |6|Somchai|1,788|+4.7|65|
 |7|Brian|1,780|-4.1|91|
 |8|Van|1,778|-4.2|35|
-|9|Reinhold (Modi) Lauer|1,770|-4.1|81|
+|9|Reinhold (Modi) Lauer|1,775|+4.6|86|
 
  
 
