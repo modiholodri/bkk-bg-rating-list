@@ -1,7 +1,7 @@
 | |Name|Rating|+/-|Exp|
 |-|:--:|:----:|:-:|:-:|
 |1|Walter (Mief) Meuwis|1,867|+3.9|240|
-|2|Vinod (Vinnie) Ratnaphat|1,861|+4|175|
+|2|Vinod (Vinnie) Ratnaphat|1,865|+3.9|180|
 |3|Jay|1,809|+4.2|10|
 |4|David|1,804|+4.3|5|
 |5|Somchai|1,802|+4.4|80|
@@ -10,7 +10,7 @@
 |8|John|1,782|+4.4|66|
 |9|Van|1,767|-4.3|100|
 |10|Brian|1,762|-4.2|276|
-|11|Reinhold (Modi) Lauer|1,759|-4.4|197|
+|11|Reinhold (Modi) Lauer|1,756|-3.9|202|
 
  
 
