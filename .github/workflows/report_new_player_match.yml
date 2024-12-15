@@ -11,8 +11,11 @@ on:
         options:
           - 'Brian'
           - 'Chris'
+          - 'David'
           - 'Graham'
           - 'James Michael Haley'
+          - 'Jay'
+          - 'John'
           - 'Reinhold (Modi) Lauer'
           - 'Somchai'
           - 'Van'
@@ -29,8 +32,11 @@ on:
         options:
           - 'Brian'
           - 'Chris'
+          - 'David'
           - 'Graham'
           - 'James Michael Haley'
+          - 'Jay'
+          - 'John'
           - 'Reinhold (Modi) Lauer'
           - 'Somchai'
           - 'Van'
