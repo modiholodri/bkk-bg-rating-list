@@ -10,6 +10,7 @@ on:
         options:
           - 'Brian'
           - 'Chris'
+          - 'David'
           - 'Graham'
           - 'James Michael Haley'
           - 'Jay'
@@ -26,6 +27,7 @@ on:
         options:
           - 'Brian'
           - 'Chris'
+          - 'David'
           - 'Graham'
           - 'James Michael Haley'
           - 'Jay'
