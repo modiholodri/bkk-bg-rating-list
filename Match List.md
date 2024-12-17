@@ -141,4 +141,3 @@
 |2024-12-14|Vinod (Vinnie) Ratnaphat|David|5|
 |2024-12-14|David|Reinhold (Modi) Lauer|5|
 |2024-12-14|Jay|Chris|5|
-|2024-12-17|Reinhold (Modi) Lauer|Reinhold (Modi) Lauer|5|
