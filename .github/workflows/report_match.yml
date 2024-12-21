@@ -20,6 +20,8 @@ on:
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
+          - 'Chuck'
+          - 'Greg'
       loser_name:
         description: 'Loser'
         required: true
@@ -37,6 +39,8 @@ on:
           - 'Van'
           - 'Vinod (Vinnie) Ratnaphat'
           - 'Walter (Mief) Meuwis'
+          - 'Chuck'
+          - 'Greg'
       match_length:
         description: 'Length'
         default: '5'
