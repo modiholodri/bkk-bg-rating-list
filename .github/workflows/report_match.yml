@@ -8,6 +8,7 @@ on:
         required: true
         type: choice
         options:
+          - 'Ashok'
           - 'Brian'
           - 'Chris'
           - 'Chuck'
@@ -27,6 +28,7 @@ on:
         required: true
         type: choice
         options:
+          - 'Ashok
           - 'Brian'
           - 'Chris'
           - 'Chuck'
