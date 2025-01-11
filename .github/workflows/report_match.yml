@@ -8,6 +8,7 @@ on:
         required: true
         type: choice
         options:
+          - 'Anders'
           - 'Ashok'
           - 'Brian'
           - 'Chris'
@@ -19,6 +20,7 @@ on:
           - 'Jay'
           - 'John'
           - 'Modi'
+          - 'Pradyot'
           - 'Somchai'
           - 'Van'
           - 'Vinnie'
@@ -28,6 +30,7 @@ on:
         required: true
         type: choice
         options:
+          - 'Anders'
           - 'Ashok'
           - 'Brian'
           - 'Chris'
@@ -39,6 +42,7 @@ on:
           - 'Jay'
           - 'John'
           - 'Modi'
+          - 'Pradyot'
           - 'Somchai'
           - 'Van'
           - 'Vinnie'
