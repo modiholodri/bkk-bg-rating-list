@@ -9,6 +9,7 @@ on:
         type: choice
         options:
           - 'Anders'
+          - 'Armin'
           - 'Ashok'
           - 'Avi'
           - 'Benny'
@@ -35,6 +36,7 @@ on:
         type: choice
         options:
           - 'Anders'
+          - 'Armin'
           - 'Ashok'
           - 'Avi'
           - 'Benny'
