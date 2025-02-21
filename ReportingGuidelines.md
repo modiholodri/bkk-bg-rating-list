@@ -1,6 +1,6 @@
 ### Rating Formula
 
-If player 1 rated A wins a match up to N points against player 2 rated B, the rating of player 1 with W points and then the rating of player 2 drops with W points, where:
+If player 1 rated A wins a match up to N points against player 2 rated B, the rating of player 1 increases with W points and then the rating of player 2 drops with W points, where:
 
 W = (1 − P) × S
 
@@ -10,8 +10,8 @@ P = 1 / (1 + 10^(-(A-B) × √N / 2000))
 
 S = 4 × √N
 
-• The winner's rating will increase by a number of points equal to the number of rating points at stake multiplied by the probability that the player involved would have lost the match.
-• The loser's rating drops by a number of points equal to the number of rating points multiplied by the probability that the player involved would have won the match.
+- The winner's rating will increase by a number of points equal to the number of rating points at stake multiplied by the probability that the player involved would have lost the match.
+- The loser's rating drops by a number of points equal to the number of rating points multiplied by the probability that the player involved would have won the match.
 
 ### Reporting Guidelines
 
