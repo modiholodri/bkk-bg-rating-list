@@ -1,4 +1,4 @@
-### Formulas for Rating
+### Rating Formula
 
 If player 1 rated A wins a match up to N points against player 2 rated B, the rating of player 1 with W points and then the rating of player 2 drops with W points, where:
 
