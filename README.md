@@ -1,7 +1,7 @@
 | |Name|Rating|+/-|Exp|
 |-|:--:|:----:|:-:|:-:|
-|1|Walter|1,924|+3.7|601|
-|2|Vinnie|1,920|+3.7|457|
+|1|Vinnie|1,920|+3.7|457|
+|2|Walter|1,919|-5.8|606|
 |3|Jay|1,866|+3.9|242|
 |4|Avi|1,805|-3.9|35|
 |5|Ebi|1,805|+4.4|35|
@@ -22,8 +22,23 @@
 |20|Tony|1,778|-4.4|35|
 |21|Van|1,753|-4.9|275|
 |22|Brian|1,729|+4.3|694|
-|23|Modi|1,677|-3.9|598|
+|23|Modi|1,683|+5.8|603|
 
+
+### Rating Formula
+
+If player 1 rated A wins a match up to N points against player 2 rated B, the rating of player 1 increases with W points and then the rating of player 2 drops with W points, where:
+
+W = (1 − P) × S
+
+Here, P is the probability of player 1 winning the match and S is the number of rating points at stake. These are given by:
+
+P = 1 / (1 + 10^(-(A-B) × √N / 2000))
+
+S = 4 × √N
+
+- The winner's rating will increase by a number of points equal to the number of rating points at stake multiplied by the probability that the player involved would have lost the match.
+- The loser's rating drops by a number of points equal to the number of rating points multiplied by the probability that the player involved would have won the match.
 
 ### Reporting Guidelines
 
