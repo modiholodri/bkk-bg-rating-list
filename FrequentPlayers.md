@@ -8,6 +8,7 @@ Graham
 Jay
 John
 Leonard
+Majid
 Modi
 Peter
 Robin
