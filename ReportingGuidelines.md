@@ -1,3 +1,8 @@
+### Additional Stuff
+
+[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) and 
+[Tournaments 2025](https://github.com/modiholodri/bkk-bg-rating-list/discussions/5) are updated every few weeks.
+
 ### Rating Formula
 
 If player 1 rated A wins a match up to N points against player 2 rated B, the rating of player 1 increases with W points and then the rating of player 2 drops with W points, where:
