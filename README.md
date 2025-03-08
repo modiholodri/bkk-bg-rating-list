@@ -12,9 +12,9 @@
 |10|Somchai|1,802|+4.4|80|
 |11|Chuck|1,801|-4.4|20|
 |12|Ashok|1,800|+4.3|70|
-|13|Pradyot|1,796|+3.9|25|
-|14|John|1,795|-5.4|396|
-|15|Robin|1,794|+4.3|65|
+|13|Robin|1,800|+5.7|74|
+|14|Pradyot|1,796|+3.9|25|
+|15|John|1,795|-5.4|396|
 |16|Chris|1,793|-6.7|73|
 |17|Majid|1,792|+5.4|28|
 |18|Benny|1,791|-4.9|20|
@@ -22,11 +22,16 @@
 |20|Leonard|1,786|+3.9|145|
 |21|Gregg|1,784|-4.9|77|
 |22|Tony|1,778|-4.4|35|
-|23|Graham|1,765|-3.6|150|
+|23|Graham|1,759|-5.7|159|
 |24|Van|1,745|-5|345|
 |25|Brian|1,721|+4.7|714|
 |26|Modi|1,671|+5|678|
 
+
+### Additional Stuff
+
+[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) and 
+[Tournaments 2025](https://github.com/modiholodri/bkk-bg-rating-list/discussions/5) are updated every few weeks.
 
 ### Rating Formula
 
