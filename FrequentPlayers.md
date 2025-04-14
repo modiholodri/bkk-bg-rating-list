@@ -19,6 +19,7 @@ Majid
 Modi
 Peter
 Pradyot
+Rene Thor
 Robin
 Sandy
 Somchai
