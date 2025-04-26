@@ -9,10 +9,10 @@ Chris
 Chuck
 David
 Ebi
+Gerry
 Graham
 Gregg
 Jay
-Jerry
 John
 Junior
 Leonard
