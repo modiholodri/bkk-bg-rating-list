@@ -1,7 +1,6 @@
 ### Additional Stuff
 
-[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) and 
-[Tournaments 2025](https://github.com/modiholodri/bkk-bg-rating-list/discussions/5) are updated every few weeks.
+[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) are updated every few weeks.
 
 ### Rating Formula
 
