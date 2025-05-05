@@ -6,14 +6,14 @@
 |4|Ebi|1,859|+3.8|159|
 |5|Peter|1,817|+5.2|63|
 |6|Armin|1,815|+3.7|50|
-|7|John|1,809|-4|771|
+|7|John|1,813|+3.4|774|
 |8|Avi|1,805|-3.9|35|
 |9|Anders|1,804|-4.1|25|
-|10|David|1,803|-5.9|67|
-|11|Somchai|1,802|+4.4|80|
-|12|Chuck|1,801|-4.4|20|
-|13|Ashok|1,800|+4.3|70|
-|14|Junior|1,800|-2|4|
+|10|Somchai|1,802|+4.4|80|
+|11|Chuck|1,801|-4.4|20|
+|12|Ashok|1,800|+4.3|70|
+|13|Junior|1,800|-2|4|
+|14|David|1,799|-3.4|70|
 |15|Robin|1,798|+4.1|221|
 |16|Gerry|1,796|+4.2|25|
 |17|Pradyot|1,796|+3.9|25|
@@ -34,8 +34,7 @@
 
 ### Additional Stuff
 
-[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) and 
-[Tournaments 2025](https://github.com/modiholodri/bkk-bg-rating-list/discussions/5) are updated every few weeks.
+[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) are updated every few weeks.
 
 ### Rating Formula
 
