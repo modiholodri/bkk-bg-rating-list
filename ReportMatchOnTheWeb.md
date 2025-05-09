@@ -2,17 +2,17 @@
 
 This section contains general information about the Bangkok Backgammon Rating List website.
 
-- ⟳ Headings with a ⟳ symbol can be clicked to refresh the information in that section.
-- ⇅ Headings with a ⇅ can be clicked to expand/collapse that section.
+- **⟳** Headings with a ⟳ symbol can be clicked to refresh the information in that section.
+- **⇅** Headings with a ⇅ can be clicked to expand/collapse that section.
 
 ##### Match Report
 
 Frequent players are included in the Select dropdown menus.
 When a player, who is not included in dropdown menus is involved, the name can be typed in the field on the right side.
 
-- Select or edit the Winner name.
-- Select or edit the Loser name.
-- Select or edit the Match Length.
+- Select or edit the **Winner** name.
+- Select or edit the **Loser** name.
+- Select or edit the **Match Length**.
 - Click on Submit to submit the match report.
 
 After clicking on Submit you can see the submission status below.
@@ -29,36 +29,32 @@ Shows the current rating list.
 The different ranking lists are summarized over a specific period in time. 
 All ranking lists are shown in tabular form in the Ranking Summary section.
 A few ranking lists are also shown as a chart in the Ranking Chart (coming soon) section.
-💡You can click on click on the legend for a chart to show/hide individual data series.
+
+💡 You can click on the legend for a chart to show/hide individual data series.
 
 Which ranking list for which period is shown can be selected in the dropdown menus.
-- The ranking list can be selected in the first dropdown menu.
-- The general interval, Daily, Monthly, Yearly, and ET (Eternally) can be selected in the second dropdown menu.
-- The specific period can be selected in the third dropdown menu.
-- The Player dropdown menu is only shown for the Player Info Rankin List.
+- The **Ranking List** can be selected in the first dropdown menu.
+- The **General interval**, Daily, Monthly, Yearly, and ET (Eternally) can be selected in the second dropdown menu.
+- The **Specific Period** can be selected in the third dropdown menu.
+- The **Player** dropdown menu is only shown for the Player Info Rankin List.
 
-The Result column, used in various Ranking Lists, contains Matches Won - Matches Lost.
+The **Result** column, used in various Ranking Lists, contains **Matches Won** - ** Matches Lost**.
 
-- Matches Played: Shows the total matches played.
-- % Matches Won: Shows the percentage of matches won.
-- Rangliste: Shows the Punkte calculated according to a system based on the German ranking. 
+- **Matches Played**: Shows the total matches played.
+- **% Matches Won**: Shows the percentage of matches won.
+- **Rangliste**: Shows the Punkte calculated according to a system based on the German ranking. 
   Only matches played on Saturday are considered.
   If a player wins a match the match length is added to the Punkte.
   The Punkte are increased by 5 for each Saturday the player played.
-- Player Info: Shows how a player is doing against other players. 
+- **Player Info**: Shows how a player is doing against other players. 
   The name of the player under consideration is written in the top left.
   The matches won of the other player are written close to that player's name.
-- Current Streak: Shows how many matches have been won or lost in a row at the end of the selected period.
+- **Current Streak**: Shows how many matches have been won or lost in a row at the end of the selected period.
   Matches Won is indicated by a positive number and Matches Lost is indicated by a negative number.
-- &gt; Winning Streak: Shows the longest streak of matches won a row during the selected period.
-- &gt; Losing Streak: Shows the longest streak of matches lost a row during the selected period.
-- Days Inactive: Shows the number of days a player has been idling and the date when the player has played the last time.
+- **&gt; Winning Streak**: Shows the longest streak of matches won a row during the selected period.
+- **&gt; Losing Streak**: Shows the longest streak of matches lost a row during the selected period.
+- **Days Inactive**: Shows the number of days a player has been idling and the date when the player has played the last time.
   The Days Inactive list makes sense only when the current or recent period is selected.
-
-⚠️Not all ranking lists make sense for all intervals.
-
-❗The method of calculating a ranking list can change without prior notice.
-   When that happens, all ranking lists will be recalculated from the beginning.
 
 ##### Settings
 
