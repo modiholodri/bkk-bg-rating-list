@@ -38,7 +38,7 @@ Which ranking list for which period is shown can be selected in the dropdown men
 - The **Specific Period** can be selected in the third dropdown menu.
 - The **Player** dropdown menu is only shown for the Player Info Rankin List.
 
-The **Result** column, used in various Ranking Lists, contains **Matches Won** - ** Matches Lost**.
+The **Result** column, used in various Ranking Lists, contains **Matches Won - Matches Lost**.
 
 - **Matches Played**: Shows the total matches played.
 - **% Matches Won**: Shows the percentage of matches won.
