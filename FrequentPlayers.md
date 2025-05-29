@@ -7,6 +7,7 @@ Brian
 Bruno
 Chris
 Chuck
+Darryl
 David
 Ebi
 Gerry
