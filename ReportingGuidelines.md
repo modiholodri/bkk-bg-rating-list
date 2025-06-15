@@ -1,6 +1,4 @@
-### Additional Stuff
-
-[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) are updated every few weeks.
+Follow section contains general information and short instructions.
 
 ### Rating Formula
 

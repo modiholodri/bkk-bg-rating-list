@@ -40,13 +40,17 @@ Which ranking list for which period is shown can be selected in the dropdown men
 
 The **Result** column, used in various Ranking Lists, contains **Matches Won - Matches Lost**.
 
-- **Matches Played**: Shows the total matches played.
-- **% Matches Won**: Shows the percentage of matches won.
-- **Rangliste**: Shows the Punkte calculated according to a system based on the German ranking. 
+- **Rating List**: Shows the current and future rating of the players active in the selected period.
+  Press ▶︎ to replay the selected period a number of times.
+  Press ⏮︎ to go back to the current rating.
+- **Rangliste**: Shows the Punkte calculated according to a system based on the German ranking.
   Only matches played on Saturday are considered.
   If a player wins a match the match length is added to the Punkte.
   The Punkte are increased by 5 for each Saturday the player played.
-- **Player Info**: Shows how a player is doing against other players. 
+- **Player Progress**: Shows the rating progress over time of the active players in the selected period.
+- **Matches Played**: Shows the total matches played.
+- **% Matches Won**: Shows the percentage of matches won.
+- **Player Info**: Shows how a player is doing against other players.
   The name of the player under consideration is written in the top left.
   The matches won of the other player are written close to that player's name.
 - **Current Streak**: Shows how many matches have been won or lost in a row at the end of the selected period.
