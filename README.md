@@ -4,8 +4,8 @@
 |2|Vinnie|1,936|+3.1|972|
 |3|Jay|1,924|+5.2|590|
 |4|Ebi|1,840|-5.8|315|
-|5|John|1,821|-4.6|875|
-|6|Peter|1,817|+5.2|63|
+|5|Peter|1,817|+5.2|63|
+|6|John|1,816|-4.7|880|
 |7|Armin|1,815|+3.7|50|
 |8|Robin|1,807|+4|251|
 |9|Avi|1,805|-3.9|35|
@@ -20,9 +20,9 @@
 |18|Rene|1,793|-6.8|21|
 |19|Benny|1,791|-4.9|20|
 |20|Junior|1,791|-4.2|11|
-|21|Tom|1,788|-5.6|14|
-|22|Leonard|1,786|+4.3|225|
-|23|Brian|1,785|+5.8|2156|
+|21|Brian|1,790|+4.7|2161|
+|22|Tom|1,788|-5.6|14|
+|23|Leonard|1,786|+4.3|225|
 |24|Gregg|1,784|-4.9|77|
 |25|Tony|1,778|-4.4|35|
 |26|Majid|1,776|-4.4|90|
@@ -33,9 +33,7 @@
 |31|Modi|1,573|-3.3|1381|
 
 
-### Additional Stuff
-
-[Rating Charts](https://github.com/modiholodri/bkk-bg-rating-list/discussions/2) are updated every few weeks.
+Follow section contains general information and short instructions.
 
 ### Rating Formula
 
