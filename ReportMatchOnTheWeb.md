@@ -94,7 +94,7 @@ The tournament director is responsible for the preparation, execution, and closu
 - Take a picture of the scoreboard (very important).
 - Post the picture in our group.
 - Pay out the winners.
-- Check if all results have been reported.
+- Check if all results have been reported for the rating list.
 - Report matches where the opponent forfeited.
 - Report missing matches by checking the results on the scoreboard picture.
 
