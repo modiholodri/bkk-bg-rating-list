@@ -96,6 +96,6 @@ The tournament director is responsible for the preparation, execution, and closu
 - Pay out the winners.
 - Check if all results have been reported.
 - Report matches where the opponent forfeited.
-- Report missing matches by checking the reports against the scoreboard picture.
+- Report missing matches by checking the results on the scoreboard picture.
 
 > Use Matches Played and Daily in the Ranking Lists section to help find out which results are missing. Keep also in mind that some players have played extra non-tournament matches before during or after the tournament.
