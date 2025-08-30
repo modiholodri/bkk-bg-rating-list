@@ -28,10 +28,10 @@
 |26|Majid|1,776|-4.4|90|
 |27|Chris|1,776|+5.4|162|
 |28|Darryl|1,758|-4.9|60|
-|29|Brian|1,756|-5.6|2867|
+|29|Brian|1,750|-5.6|2872|
 |30|Van|1,709|+4.9|544|
 |31|Graham|1,689|-3.1|983|
-|32|Modi|1,560|+5.6|2030|
+|32|Modi|1,565|+5.6|2035|
 
 
 Follow section contains general information and short instructions.
