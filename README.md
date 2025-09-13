@@ -1,7 +1,7 @@
 | |Name|Rating|+/-|Exp|
 |-|:---|:----:|:-:|--:|
 |1|Walter|2,061|+4|1473|
-|2|Vinnie|1,965|-4|1133|
+|2|Vinnie|1,968|+2.3|1138|
 |3|Jay|1,918|+3.5|690|
 |4|Ebi|1,875|+3.7|380|
 |5|Peter|1,817|+5.2|63|
@@ -31,7 +31,7 @@
 |29|Brian|1,752|-5.6|2987|
 |30|Van|1,709|+4.9|544|
 |31|Graham|1,689|-3.1|983|
-|32|Modi|1,555|+5.6|2145|
+|32|Modi|1,553|-2.3|2150|
 
 
 Follow section contains general information and short instructions.
