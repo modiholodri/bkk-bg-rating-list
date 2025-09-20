@@ -31,9 +31,9 @@
 |29|Chris|1,776|+5.4|162|
 |30|Brian|1,767|+4.6|3042|
 |31|Darryl|1,758|-4.9|60|
-|32|Van|1,697|-4|589|
-|33|Graham|1,694|+5.7|1013|
-|34|Modi|1,557|-2.3|2210|
+|32|Graham|1,694|+5.7|1013|
+|33|Van|1,692|-5.3|594|
+|34|Modi|1,562|+5.3|2215|
 
 
 Follow section contains general information and short instructions.
