@@ -23,7 +23,7 @@ jobs:
           
       - name: Update the Tournament
         run: |
-          echo "${{ steps.get_tournament.outputs.result }}" > "Tournament.html"
+          echo ${{ steps.get_tournament.outputs.result }} > "Tournament.html"
         
       - name: Commit Changes
         env:
