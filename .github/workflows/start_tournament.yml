@@ -5,7 +5,7 @@ on:
     types: [start_tournament]    
 
 jobs:
-  process_action_match:
+  start_tournament:
     runs-on: ubuntu-latest
     steps:
       - name: Check Out Repo
