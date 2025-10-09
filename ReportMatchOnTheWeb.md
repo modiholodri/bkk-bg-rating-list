@@ -1,6 +1,6 @@
 ### Short Instructions
 
-This section contains general information about the Bangkok Backgammon Rating List website.
+This section contains general information about the Backgammon website.
 
 - **⟳** Headings with a ⟳ symbol can be clicked to refresh the information in that section.
 - **⇅** Headings with a ⇅ can be clicked to expand/collapse that section.
@@ -28,7 +28,7 @@ Shows the current rating list.
 
 The different ranking lists are summarized over a specific period in time. 
 All ranking lists are shown in tabular form in the Ranking Summary section.
-A few ranking lists are also shown as a chart in the Ranking Chart (coming soon) section.
+A few ranking lists are also shown as a chart in the Ranking Chart section.
 
 💡 You can click on the legend for a chart to show/hide individual data series.
 
