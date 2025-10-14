@@ -28,7 +28,7 @@
 |26|Kevin|1,788|-4.7|45|
 |27|Leonard|1,786|+4.3|225|
 |28|Gregg|1,784|-4.9|77|
-|29|Junior|1,784|+1.8|22|
+|29|Junior|1,781|-2.2|23|
 |30|Somchai|1,780|-4.6|105|
 |31|Tony|1,778|-4.4|35|
 |32|Majid|1,776|-4.4|90|
@@ -37,7 +37,7 @@
 |35|Brian|1,743|+4.3|3186|
 |36|Graham|1,704|-4.3|1114|
 |37|Van|1,669|-2.4|665|
-|38|Modi|1,573|+5.6|2276|
+|38|Modi|1,575|+2.2|2277|
 
 
 Follow section contains general information and short instructions.
