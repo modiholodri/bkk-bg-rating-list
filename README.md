@@ -38,9 +38,9 @@
 |36|Junior|1,773|-1.7|32|
 |37|Majid|1,768|+4.6|110|
 |38|Darryl|1,758|-4.9|60|
-|39|Graham|1,710|-3.4|1274|
+|39|Graham|1,704|-5.2|1279|
 |40|Van|1,683|-3|775|
-|41|Modi|1,578|+5.8|2332|
+|41|Modi|1,583|+5.2|2337|
 
 
 Follow section contains general information and short instructions.
