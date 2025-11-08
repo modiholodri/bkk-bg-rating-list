@@ -39,8 +39,8 @@
 |37|Darryl|1,758|-4.9|60|
 |38|Brian|1,757|-2.7|3491|
 |39|Van|1,706|+4.9|830|
-|40|Graham|1,698|-4.2|1345|
-|41|Modi|1,588|-1.9|2390|
+|40|Graham|1,693|-5.1|1350|
+|41|Modi|1,593|+5.1|2395|
 
 
 Follow section contains general information and short instructions.
