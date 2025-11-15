@@ -37,12 +37,12 @@
 |35|Tony|1,778|-4.4|35|
 |36|Chris|1,776|+5.4|162|
 |37|Junior|1,773|-1.7|32|
-|38|Brian|1,758|-3.4|3526|
-|39|Majid|1,758|+4.7|165|
+|38|Majid|1,761|+3.7|170|
+|39|Brian|1,758|-3.4|3526|
 |40|Darryl|1,758|-4.9|60|
 |41|Graham|1,693|-5.1|1350|
 |42|Van|1,692|-2.5|850|
-|43|Modi|1,618|+5.5|2425|
+|43|Modi|1,614|-3.7|2430|
 
 
 Follow section contains general information and short instructions.
