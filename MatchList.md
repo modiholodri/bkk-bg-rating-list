@@ -1,4 +1,4 @@
-|Date|Winner|Loser|Length|
+I'll|Date|Winner|Loser|Length|
 |:--:|:----:|:---:|:----:|
 |2024-11-02|Walter|Vinnie|5|
 |2024-11-02|Vinnie|Brian|5|
@@ -1901,7 +1901,6 @@
 |2026-01-24|Jay|Ebi|5|
 |2026-01-24|Brian|Vinnie|5|
 |2026-01-24|Ali|Walter|5|
-|2026-01-24|Modi|Modi|5|
 |2026-01-24|Modi|John|5|
 |2026-01-24|Jay|Ali|5|
 |2026-01-24|Vinnie|Modi|5|
