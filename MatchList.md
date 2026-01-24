@@ -1,4 +1,4 @@
-I'll|Date|Winner|Loser|Length|
+|Date|Winner|Loser|Length|
 |:--:|:----:|:---:|:----:|
 |2024-11-02|Walter|Vinnie|5|
 |2024-11-02|Vinnie|Brian|5|
