@@ -1,6 +1,6 @@
 # Bangkok Backgammon Club
 
-This repo is for the Bangkok Backgammon club to keep track of the matches played.
+This repo is used to keep track of the matches played for the Bangkok Backgammon club.
 
 Information about gatherings is as follows...
 
