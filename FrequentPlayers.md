@@ -41,6 +41,7 @@ Pete
 Peter
 Pradyot
 Rene
+Rik
 Robin
 Roman
 Sandy
