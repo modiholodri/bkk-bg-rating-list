@@ -37,8 +37,8 @@ Mark L
 Modi
 Otto
 Patryk
-Pete
 Peter
+Peter W
 Pradyot
 Rene
 Rik
@@ -55,5 +55,5 @@ Tony
 Van
 Vinnie
 Walter
-William
+Will
 Yost
