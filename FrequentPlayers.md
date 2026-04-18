@@ -16,6 +16,7 @@ Chuck
 Cybele
 Darryl
 David
+David L
 Ebi
 Ehsan
 Frank
@@ -24,6 +25,7 @@ Gerry
 Graham
 Gregg
 Guy
+Isaac
 Jay
 Johannes
 John
