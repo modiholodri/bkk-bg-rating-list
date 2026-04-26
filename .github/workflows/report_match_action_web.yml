@@ -1,4 +1,4 @@
-name: Report Match Action
+name: Report Match
 
 on: 
   repository_dispatch: 
