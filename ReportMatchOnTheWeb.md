@@ -2,20 +2,18 @@
 
 This section contains general information about the Backgammon website.
 
-- **⟳** Headings with a ⟳ symbol can be clicked to refresh the information in that section.
 - **⇅** Headings with a ⇅ can be clicked to expand/collapse that section.
 
 ##### Match Report
 
-Frequent players are included in the Select dropdown menus.
-When a player, who is not included in dropdown menus is involved, the name can be typed in the field on the right side.
+Frequent players are included in the Select Winner and Select Loser dropdown menus.
 
-- Select or edit the **Winner** name.
-- Select or edit the **Loser** name.
-- Select or edit the **Match Length**.
+- Select the **Winner** name.
+- Select the **Loser** name.
+- Select the **Match Length**.
 - Click on Submit to submit the match report.
 
-After clicking on Submit you can see the submission status below.
+After clicking on Submit you can see the submission status at the top of the page.
 The Submit button is disabled until the match report submission is Complete.
 If another submission is in progress, wait until it is Completed and click Submit again. 
 After a new match has been submitted successfully the Rating and Match List will be refreshed automatically.
@@ -27,27 +25,28 @@ Shows the current rating list.
 ##### Ranking Lists
 
 The different ranking lists are summarized over a specific period in time. 
-All ranking lists are shown in tabular form in the Ranking Summary section.
-A few ranking lists are also shown as a chart in the Ranking Chart section.
+All ranking lists are shown as chart in the Ranking Chart section and in tabular form in the Ranking Summary section.
 
-💡 You can click on the legend for a chart to show/hide individual data series.
+💡 You can click on the legend entries of a chart to show/hide individual data series.
 
 Which ranking list for which period is shown can be selected in the dropdown menus.
 - The **Ranking List** can be selected in the first dropdown menu.
 - The **General interval**, Daily, Monthly, Yearly, and ET (Eternally) can be selected in the second dropdown menu.
 - The **Specific Period** can be selected in the third dropdown menu.
-- The **Player** dropdown menu is only shown for the Player Info Rankin List.
-
-The **Result** column, used in various Ranking Lists, contains **Matches Won - Matches Lost**.
+- The **Player** dropdown menu is only shown for the Player Info ranking list.
 
 - **Rating List**: Shows the current and future rating of the players active in the selected period.
   Press ▶︎ to replay the selected period a number of times.
   Press ⏮︎ to go back to the current rating.
+- **Winning %**: Shows the percent of matches won for each player and the expected percent to win based on the players Elo points.
 - **Rangliste**: Shows the Punkte calculated according to a system based on the German ranking.
   Only matches played on Saturday are considered.
   If a player wins a match the match length is added to the Punkte.
   The Punkte are increased by 5 for each Saturday the player played.
 - **Player Progress**: Shows the rating progress over time of the active players in the selected period.
+- **Player Position**: Shows the players in an Elo chart based on their actual position.
+  The middle part is expanded so that the naames do not overlap too much.
+- **High/Low Scores**: Shows the high/low scores during the selected period and the current Elo points.
 - **Matches Played**: Shows the total matches played.
 - **% Matches Won**: Shows the percentage of matches won.
 - **Player Info**: Shows how a player is doing against other players.
@@ -62,8 +61,15 @@ The **Result** column, used in various Ranking Lists, contains **Matches Won - M
 
 ##### Settings
 
-At the moment there is only one user setting which is your name, as it is spelled in the rating list.
-It has the effect that you will be selected in the Player Info by default.
+The settings are saved locally on your device. 
+The settings will be loaded automatically the next time you visit or refresh the page. 
+Refresh the page after making changes.
+
+- **Your Name**: Enter your name or nickname as it is spelled in the rating list.
+  Your name will be highlighted in varriouse list and your current standing shown in certain charts.
+  Further, it has the effect that you will be selected in the Player Info by default.
+- **Club**: Select the club you want to see.
+- **Theme**: Select any of the choices; System Default, Dark, or Light.
 
 Other settings stored are...
 - The state of sections, i.e. if they are expanded or collapsed.
