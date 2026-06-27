@@ -46,6 +46,7 @@ Moshi
 Nima
 Otto
 Patryk
+Pear
 Peter
 Peter W
 Pradyot
