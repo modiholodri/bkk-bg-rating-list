@@ -1,4 +1,4 @@
-|Date|Winner|Loser|Length|
+4|Date|Winner|Loser|Length|
 |:--:|:----:|:---:|:----:|
 |2024-11-02|Walter|Vinnie|5|
 |2024-11-02|Vinnie|Brian|5|
@@ -2765,13 +2765,13 @@
 |2026-08-12|Brian|Modi|5|
 |2026-08-15|Jay|Ronny|7|
 |2026-08-15|Brian|Gidi|7|
-|2026-08-15|Mark L|Rik|5|
+|2026-08-15|Mark L|Rik|7|
 |2026-08-15|Mark L|Jay|7|
 |2026-08-15|Peter W|Van|7|
 |2026-08-15|Brian|Van|7|
 |2026-08-15|Graham|Gidi|7|
-|2026-08-15|Ronny|Rik|5|
 |2026-08-15|Ronny|Rik|7|
-|2026-08-15|Peter W|Brian|5|
+|2026-08-15|Ronny|Rik|7|
+|2026-08-15|Peter W|Brian|7|
 |2026-08-15|Ronny|Mark L|7|
-|2026-08-15|Van|Graham|5|
+|2026-08-15|Van|Graham|7|
