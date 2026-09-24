@@ -70,7 +70,7 @@ Tangkwa
 Tom
 Tony
 Van
-Vinnie
+Vinnie †
 Walter
 Will
 Yost
