@@ -68,6 +68,7 @@ Shannon
 Simon
 Somchai
 Tangkwa
+Ted
 Tom
 Tony
 Van
