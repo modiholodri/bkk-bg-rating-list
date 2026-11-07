@@ -39,6 +39,7 @@ John
 Junior
 Kevin
 Larry
+Laurent
 Leonard
 Majid
 Mark L
